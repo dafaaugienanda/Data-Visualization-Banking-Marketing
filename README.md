@@ -1,8 +1,8 @@
 # Data-Visualization-Banking-Marketing
 
-Using visual elements to represent information and data to provide an easier way to find insight and communicate the findings to the stakeholders.
+The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y). By using visual elements to represent information and data, it'd provide an easier way to find insight and communicate the findings to the stakeholders.
 
-# Data Attributes
+**Data Attributes**
 
 - Age (numeric)
 
